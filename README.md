@@ -1,5 +1,3 @@
-# luma-hub
-LUMA_HUB - Assistant IA conversationnel
 # 🚀 LUMA_HUB - Assistant IA Conversationnel
 
 ## 📋 Description

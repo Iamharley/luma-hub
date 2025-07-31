@@ -1,0 +1,48 @@
+# 🐍 LUMA_HUB - Dépendances Python
+
+# IA et API
+openai>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Synthèse vocale (TTS)
+pyttsx3>=2.90
+gTTS>=2.3.2
+
+# Reconnaissance vocale (STT)
+SpeechRecognition>=3.10.0
+whisper>=1.0.0
+vosk>=0.3.45
+
+# Audio et traitement
+pyaudio>=0.2.11
+numpy>=1.24.0
+librosa>=0.10.0
+
+# Interface et UI
+flask>=2.3.0
+flask-socketio>=5.3.0
+jinja2>=3.1.0
+
+# Système et utilitaires
+psutil>=5.9.0
+pyautogui>=0.9.54
+keyboard>=0.13.5
+
+# Sécurité et chiffrement
+cryptography>=41.0.0
+bcrypt>=4.0.0
+
+# Plugins et intégrations
+notion-client>=2.0.0
+google-auth>=2.20.0
+google-auth-oauthlib>=1.0.0
+
+# Logging et monitoring
+loguru>=0.7.0
+colorama>=0.4.6
+
+# Tests et développement
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0 
